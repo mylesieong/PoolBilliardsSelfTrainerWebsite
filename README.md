@@ -3,8 +3,11 @@
 Static marketing site for the [Pool & Billiards Self-Trainer](https://github.com/mylesieong/PoolBilliardsSelfTrainer)
 app: one landing page plus a set of SEO guide pages.
 
-No build step, no dependencies, no JavaScript. Plain HTML and one stylesheet — deployable to
-GitHub Pages, Netlify, Cloudflare Pages or any static host by pointing it at the repo root.
+**Live at** <https://mylesieong.github.io/products/pool-billiards-self-trainer>
+(served from GitHub Pages, under the `products/pool-billiards-self-trainer/` path of
+`mylesieong.github.io`).
+
+No build step, no dependencies, no JavaScript — plain HTML and one stylesheet.
 
 ## Layout
 
@@ -12,35 +15,43 @@ GitHub Pages, Netlify, Cloudflare Pages or any static host by pointing it at the
 index.html                 Landing page
 guides/index.html          Guide index
 guides/*.html              SEO guide pages
-privacy.html               Privacy policy (generated from the app repo's docs/PRIVACY_POLICY.md)
+privacy-policy.html        Privacy policy (the URL referenced by the App Store and Play listings)
 support.html               Support / FAQ
 404.html                   Not found
 style.css                  The only stylesheet; light and dark via prefers-color-scheme
 robots.txt, sitemap.xml    Crawling
 ```
 
-## Before going live
+## Paths
 
-These placeholders are deliberate and must be replaced:
+Because the site is served from a subdirectory, **all internal links are relative** — `style.css`,
+`guides/index.html`, `../index.html` — never root-relative (`/style.css`), which would resolve
+against `mylesieong.github.io` and 404. Keep it that way when adding pages.
 
-- **Domain** — every `<link rel="canonical">`, the Open Graph URLs, `robots.txt` and
-  `sitemap.xml` use `https://poolselftrainer.com`. Search and replace once the real domain is
-  registered.
-- **Store links** — the App Store and Google Play buttons in `index.html` point at `#`.
-- **Contact email** — `support.html` uses `CONTACT_EMAIL`; `privacy.html` carries
-  `[PUBLISHER LEGAL NAME]` and `[CONTACT EMAIL]` inherited from the source document.
-- **Social image** — no `og:image` is set yet; add one (1200×630) and reference it from every page.
+Absolute URLs appear only in `<link rel="canonical">`, the Open Graph tags, `sitemap.xml` and
+`robots.txt`, all using the base above.
 
 ## Local preview
 
 ```
-python3 -m http.server 8000
+python3 -m http.server 8321
 ```
 
-Then open <http://localhost:8000>. Root-relative links (`/style.css`, `/guides/`) require a
-server — opening the files directly from disk will not load the stylesheet.
+Then open <http://localhost:8321>. Relative links mean the pages also open correctly straight
+from disk.
+
+## Still outstanding
+
+- **Social image** — no `og:image` is set. Add one (1200×630) and reference it from every page.
+- **robots.txt / 404.html** — GitHub Pages only honours these at the root of
+  `mylesieong.github.io`, not in a subdirectory. The copies here are for reference and for the
+  case where the site moves to its own domain; to get crawl directives live, add the sitemap line
+  to the root `robots.txt` of the Pages repo.
+- **Sitemap submission** — submit `sitemap.xml` in Google Search Console for the
+  `mylesieong.github.io` property.
 
 ## Keeping the privacy policy in sync
 
-`privacy.html` is a conversion of `docs/PRIVACY_POLICY.md` in the app repo. When that document
-changes, re-convert it rather than hand-editing the HTML.
+`privacy-policy.html` mirrors `docs/PRIVACY_POLICY.md` in the app repo, and its URL is the one
+given to the App Store and Google Play. When that document changes, update this page in the same
+pass — a store listing pointing at a stale policy is a review risk.

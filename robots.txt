@@ -1,4 +1,6 @@
+# Only the robots.txt at the root of mylesieong.github.io is honoured by crawlers.
+# This copy applies if the site is ever served from its own domain.
 User-agent: *
 Allow: /
 
-Sitemap: https://poolselftrainer.com/sitemap.xml
+Sitemap: https://mylesieong.github.io/products/pool-billiards-self-trainer/sitemap.xml
