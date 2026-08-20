@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Pool &amp; Billiards Self-Trainer logo">
+  <rect width="128" height="128" rx="28" fill="#1565C0"/>
+  <path d="M72 53.5 L124 50.5 v9 L72 62.5 a4.5 4.5 0 0 1 0-9 Z" fill="#ffffff"/>
+  <path d="M72.5 54.8 h11.8 a34 34 0 0 1 0 6.4 H72.5 a3.2 3.2 0 0 1 0-6.4 Z" fill="#42A5F5"/>
+  <path d="M74 71 L124 69.5 v4 L74 75 a2 2 0 0 1 0-4 Z" fill="#42A5F5"/>
+  <ellipse cx="46" cy="84" rx="26" ry="9" fill="#42A5F5"/>
+  <circle cx="46" cy="57" r="26" fill="#ffffff"/>
+  <ellipse cx="53" cy="39" rx="6.5" ry="4.5" fill="#D32F2F" transform="rotate(-18 53 39)"/>
+  <ellipse cx="29" cy="62" rx="4.8" ry="6.2" fill="#D32F2F" transform="rotate(12 29 62)"/>
+  <ellipse cx="58" cy="70" rx="6" ry="5" fill="#D32F2F" transform="rotate(-8 58 70)"/>
+</svg>

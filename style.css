@@ -1,23 +1,33 @@
 :root {
+  /* Palette mirrors the app's Material theme (theme/Theme.kt):
+     primary #1565C0, secondary #42A5F5, error #D32F2F, background #F5F5F5. */
   --bg: #ffffff;
-  --bg-alt: #f4f6f5;
-  --ink: #14201b;
-  --ink-soft: #4a5b53;
-  --line: #dde4e0;
-  --accent: #0f6b45;
-  --accent-soft: #e6f2ec;
+  --bg-alt: #f5f5f5;
+  --ink: #212121;
+  --ink-soft: #5f6368;
+  --line: #e0e0e0;
+  --accent: #1565C0;
+  --accent-hover: #0d47a1;
+  --accent-2: #42A5F5;
+  --accent-soft: #e8f1fb;
+  --on-accent: #ffffff;
+  --danger: #D32F2F;
   --max: 68rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0e1512;
-    --bg-alt: #161f1a;
-    --ink: #eef3f0;
-    --ink-soft: #a9bab1;
-    --line: #26332c;
-    --accent: #4fbf8b;
-    --accent-soft: #16281f;
+    --bg: #121212;
+    --bg-alt: #1e1e1e;
+    --ink: #ffffff;
+    --ink-soft: #b3b8bd;
+    --line: #2c2f33;
+    --accent: #42A5F5;
+    --accent-hover: #90caf9;
+    --accent-2: #1565C0;
+    --accent-soft: #16273a;
+    --on-accent: #06121f;
+    --danger: #ef5350;
   }
 }
 
@@ -64,12 +74,17 @@ li { margin-bottom: 0.5em; }
   flex-wrap: wrap;
 }
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
   font-weight: 650;
   color: var(--ink);
   text-decoration: none;
   letter-spacing: -0.02em;
 }
-.brand span { color: var(--accent); }
+.brand img { width: 2rem; height: 2rem; border-radius: 0.45rem; display: block; }
+.brand .brand-text { color: var(--ink); }
+.brand .brand-text span { color: var(--accent); }
 .site-nav a {
   color: var(--ink-soft);
   text-decoration: none;
@@ -77,9 +92,30 @@ li { margin-bottom: 0.5em; }
   font-size: 0.95rem;
 }
 .site-nav a:hover { color: var(--accent); }
+@media (max-width: 30rem) {
+  .site-nav a { margin: 0 0.9rem 0 0; font-size: 0.9rem; }
+}
 
 /* Hero */
 .hero { padding: 4.5rem 0 3.5rem; }
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: center;
+}
+.hero-art { justify-self: center; text-align: center; }
+.hero-art img {
+  width: min(15rem, 60vw);
+  height: auto;
+  border-radius: 1.6rem;
+  box-shadow: 0 1.2rem 2.5rem rgba(21, 101, 192, 0.25);
+}
+@media (max-width: 46rem) {
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-art { order: -1; justify-self: start; }
+  .hero-art img { width: 7rem; }
+}
 .hero p.lead {
   font-size: clamp(1.05rem, 2.2vw, 1.3rem);
   color: var(--ink-soft);
@@ -103,9 +139,10 @@ li { margin-bottom: 0.5em; }
   font-weight: 600;
   border: 1px solid var(--accent);
 }
-.btn-primary { background: var(--accent); color: #fff; }
+.btn-primary { background: var(--accent); color: var(--on-accent); }
 .btn-ghost { background: transparent; color: var(--accent); }
-.btn:hover { opacity: 0.88; }
+.btn-primary:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
+.btn-ghost:hover { background: var(--accent-soft); }
 .note { font-size: 0.9rem; color: var(--ink-soft); margin-top: 1rem; }
 
 /* Sections */
@@ -175,3 +212,52 @@ th { color: var(--ink-soft); font-weight: 600; }
 }
 .site-foot a { color: var(--ink-soft); }
 .foot-links { display: flex; flex-wrap: wrap; gap: 1.2rem; margin-bottom: 1.2rem; }
+
+/* Stat strip */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 1.25rem;
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--line);
+  padding-top: 1.8rem;
+}
+.stats div strong {
+  display: block;
+  font-size: 1.35rem;
+  color: var(--accent);
+  letter-spacing: -0.02em;
+}
+.stats div span { color: var(--ink-soft); font-size: 0.92rem; }
+
+/* Store buttons */
+.store-row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.8rem; }
+
+/* FAQ list */
+.faq-list { margin-top: 2rem; }
+.faq-list details {
+  border-bottom: 1px solid var(--line);
+  padding: 1rem 0;
+}
+.faq-list summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+.faq-list summary::-webkit-details-marker { display: none; }
+.faq-list summary::after { content: " +"; color: var(--accent); }
+.faq-list details[open] summary::after { content: " –"; }
+.faq-list p { margin: 0.8rem 0 0; color: var(--ink-soft); }
+
+/* Accessibility */
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+a:focus-visible, summary:focus-visible, .btn:focus-visible {
+  outline: 3px solid var(--accent-2);
+  outline-offset: 2px;
+}

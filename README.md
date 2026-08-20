@@ -13,12 +13,15 @@ No build step, no dependencies, no JavaScript — plain HTML and one stylesheet.
 
 ```
 index.html                 Landing page
+assets/                    Logo mark (SVG), app icons, social image
 guides/index.html          Guide index
 guides/*.html              SEO guide pages
 privacy-policy.html        Privacy policy (the URL referenced by the App Store and Play listings)
 support.html               Support / FAQ
 404.html                   Not found
 style.css                  The only stylesheet; light and dark via prefers-color-scheme
+site.webmanifest           PWA/app metadata (name, theme colour, icons)
+favicon.ico                Favicon (also assets/favicon.svg)
 robots.txt, sitemap.xml    Crawling
 ```
 
@@ -42,13 +45,23 @@ from disk.
 
 ## Still outstanding
 
-- **Social image** — no `og:image` is set. Add one (1200×630) and reference it from every page.
 - **robots.txt / 404.html** — GitHub Pages only honours these at the root of
   `mylesieong.github.io`, not in a subdirectory. The copies here are for reference and for the
   case where the site moves to its own domain; to get crawl directives live, add the sitemap line
   to the root `robots.txt` of the Pages repo.
 - **Sitemap submission** — submit `sitemap.xml` in Google Search Console for the
   `mylesieong.github.io` property.
+
+## Branding
+
+The palette in `style.css` mirrors the app's Material theme
+(`composeApp/.../theme/Theme.kt`): primary `#1565C0`, secondary `#42A5F5`, error `#D32F2F`,
+background `#F5F5F5`. Change it there and here in the same pass.
+
+`assets/logo-mark.svg` is a hand-drawn SVG of the app icon's ball-and-cue mark, used in the site
+header and favicon. `assets/icon-*.png` and `assets/apple-touch-icon.png` are downscaled from
+`composeApp/src/androidMain/ic_launcher-playstore.png` in the app repo, and
+`assets/og-image.png` (1200×630) is the social card referenced by every page.
 
 ## Keeping the privacy policy in sync
 
