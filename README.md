@@ -19,11 +19,46 @@ guides/*.html              SEO guide pages
 privacy-policy.html        Privacy policy (the URL referenced by the App Store and Play listings)
 support.html               Support / FAQ
 404.html                   Not found
+zh/ vi/ pt/ ko/            Translations — a full mirror of the ten pages above
 style.css                  The only stylesheet; light and dark via prefers-color-scheme
 site.webmanifest           PWA/app metadata (name, theme colour, icons)
 favicon.ico                Favicon (also assets/favicon.svg)
 robots.txt, sitemap.xml    Crawling
 ```
+
+## Languages
+
+Five locales, each a directory that mirrors the English tree one-for-one:
+
+| Locale | Directory | `hreflang` | Label in the switcher |
+| --- | --- | --- | --- |
+| English (source) | *(site root)* | `en`, and `x-default` | English |
+| Chinese, Simplified | `zh/` | `zh-Hans` | 简体中文 |
+| Vietnamese | `vi/` | `vi` | Tiếng Việt |
+| Portuguese (European) | `pt/` | `pt-PT` | Português |
+| Korean | `ko/` | `ko` | 한국어 |
+
+English is the source of truth: translate *from* it, never the other way round.
+
+Every page carries a self-referential `<link rel="canonical">` and the **same** set of six
+`<link rel="alternate" hreflang>` tags — one per locale plus `x-default` pointing at English.
+Search engines only honour `hreflang` when the set is identical and reciprocal on all five
+copies, so when you add or remove a page you must add or remove all five at once. `sitemap.xml`
+repeats the same alternates as `xhtml:link` elements.
+
+The switcher at the top of every footer links to the *same page* in each other locale, using
+relative paths. The `.lang-switch`, `html[lang^="zh"]` and `html[lang^="ko"]` rules at the bottom
+of `style.css` handle the switcher and the CJK/Korean font stacks — the Latin stack has no CJK
+faces, and the negative heading tracking meant for Latin looks wrong in those scripts.
+
+### Adding or changing content
+
+There is no build step and no translation tooling: the localised pages are plain static HTML,
+committed as-is. A change to an English page is not finished until the four translations carry
+it too, and a new page means five files, five sitemap entries and six `hreflang` tags on each.
+
+The translated privacy policies open with a callout stating that they are provided for
+convenience and that the English version prevails — keep that note if you edit them.
 
 ## Paths
 
@@ -66,5 +101,6 @@ header and favicon. `assets/icon-*.png` and `assets/apple-touch-icon.png` are do
 ## Keeping the privacy policy in sync
 
 `privacy-policy.html` mirrors `docs/PRIVACY_POLICY.md` in the app repo, and its URL is the one
-given to the App Store and Google Play. When that document changes, update this page in the same
-pass — a store listing pointing at a stale policy is a review risk.
+given to the App Store and Google Play. When that document changes, update this page **and the
+four translations** (`zh/`, `vi/`, `pt/`, `ko/`) in the same pass — a store listing pointing at a
+stale policy is a review risk. Only the English page is authoritative; the translations say so.

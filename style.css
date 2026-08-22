@@ -261,3 +261,33 @@ a:focus-visible, summary:focus-visible, .btn:focus-visible {
   outline: 3px solid var(--accent-2);
   outline-offset: 2px;
 }
+
+/* Language switcher */
+.lang-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid var(--line);
+}
+.lang-switch a { color: var(--ink-soft); text-decoration: none; }
+.lang-switch a:hover { color: var(--accent); text-decoration: underline; }
+.lang-switch a[aria-current] { color: var(--ink); font-weight: 650; }
+
+/* Script-specific typography.
+   The Latin stack above has no CJK or Korean faces, so headings fall back to
+   whatever the OS picks and the negative tracking meant for Latin looks wrong. */
+html[lang^="zh"] body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+               "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", sans-serif;
+}
+html[lang^="ko"] body {
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic",
+               "Noto Sans CJK KR", "Noto Sans KR", sans-serif;
+}
+html[lang^="zh"] h1, html[lang^="zh"] h2, html[lang^="zh"] h3, html[lang^="zh"] .brand,
+html[lang^="ko"] h1, html[lang^="ko"] h2, html[lang^="ko"] h3, html[lang^="ko"] .brand {
+  letter-spacing: 0;
+}
+html[lang^="zh"] body, html[lang^="ko"] body { line-height: 1.75; }
