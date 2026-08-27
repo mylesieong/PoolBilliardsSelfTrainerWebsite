@@ -1,454 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/how-to-practise-pool-alone.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/how-to-practise-pool-alone.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/how-to-practise-pool-alone.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/how-to-practise-pool-alone.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/how-to-practise-pool-alone.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/how-to-practise-pool-alone.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-drills-for-beginners.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-drills-for-beginners.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-drills-for-beginners.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-drills-for-beginners.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-drills-for-beginners.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-drills-for-beginners.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/cue-ball-control-drills.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/cue-ball-control-drills.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/cue-ball-control-drills.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/cue-ball-control-drills.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/cue-ball-control-drills.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/cue-ball-control-drills.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-training-plan.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-training-plan.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-training-plan.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-training-plan.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/pool-training-plan.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/pool-training-plan.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/measure-pool-improvement.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/measure-pool-improvement.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/measure-pool-improvement.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/measure-pool-improvement.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/guides/measure-pool-improvement.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/guides/measure-pool-improvement.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/support.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/support.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/support.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/support.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.4</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/support.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/support.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/support.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/support.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.4</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/support.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/support.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/support.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/support.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.4</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/support.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/support.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/support.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/support.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.4</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/support.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/support.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/support.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/support.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/support.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.4</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
   <url>
     <loc>https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/zh/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/vi/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/pt/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/ko/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mylesieong.github.io/products/pool-billiards-self-trainer/privacy-policy.html"/>
     <lastmod>2026-08-22</lastmod><changefreq>yearly</changefreq><priority>0.3</priority>
   </url>
 </urlset>
