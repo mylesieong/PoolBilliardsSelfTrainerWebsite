@@ -291,3 +291,26 @@ html[lang^="ko"] h1, html[lang^="ko"] h2, html[lang^="ko"] h3, html[lang^="ko"] 
   letter-spacing: 0;
 }
 html[lang^="zh"] body, html[lang^="ko"] body { line-height: 1.75; }
+
+/* Breadcrumbs on nested pages */
+.crumbs {
+  border-bottom: 1px solid var(--line);
+  font-size: 0.875rem;
+}
+.crumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  margin: 0;
+  padding: 0.6rem 0;
+}
+.crumbs li { margin: 0; }
+.crumbs li + li::before {
+  content: "/";
+  margin-right: 0.4rem;
+  color: var(--line);
+}
+.crumbs a { color: var(--ink-soft); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); text-decoration: underline; }
+.crumbs [aria-current="page"] { color: var(--ink-soft); }
